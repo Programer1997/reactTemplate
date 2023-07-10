@@ -3,8 +3,8 @@ import "./footer.scss"
 
 const Contact = ()=>{
     return (
-        <div>
-            <h1>Contact</h1>
+        <div class="contact">
+            <h1 class="tittleContact">Contact</h1>
             <form action="">
                 <input type="text" placeholder="Write your name..."/>
                 <input type="text" placeholder="wirte your email..." />
